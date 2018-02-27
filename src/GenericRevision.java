@@ -13,7 +13,7 @@ public class GenericRevision {
         assert s == 6;
 
         List<String> strings = Arrays.asList("Hello","World");
-        List<String> string2 = new ArrayList<String>();
+        List<String> string2 = new ArrayList<>();
 
         string2.add("Hello");
         string2.add("World");
